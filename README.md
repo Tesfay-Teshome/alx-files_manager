@@ -13,7 +13,6 @@ The objective is to build a simple platform to upload and view files with:
 
 ## Core technologies
 
-|                                                                                                         |                                                                                      |                                                                                              |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
 | ![Redis](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1000px-Redis_Logo.svg.png) | ![MongoDB](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png) | ![NodeJS](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png) |
 
@@ -27,5 +26,4 @@ Mocha is used in combination with Chai for testing the app.
 ![Mocha & Chai](https://miro.medium.com/max/499/0*WpXBkrfgR2g9dw2T.png)
 
 ## Authors
-Emediong Francis: emediongfrancis@gmail.com <br>
-Divine Chisom Ukonu: divinechisom1995@gmail.com
+Tesfay Teshome: tesfix2017@gmail.com <
